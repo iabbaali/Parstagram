@@ -2,6 +2,7 @@
 
 This is an Instagram clone iOS application with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
+---
 
 ## User Stories
 - [X] User sees app icon in home screen and styled launch screen.

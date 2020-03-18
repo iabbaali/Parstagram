@@ -30,4 +30,4 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/9ubhXjYxbR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ---
-**NOTE**: When cloning this application, there are a few pieces of information you must fill in in order to build and run properly. In a separate Swift file (i.e. Constants.swift), create 2 constant variables: appID and serverURL. These 2 constants are used to communicate the app with the Parse server. After configuring these constants, you can successfully run Parstagram!
+**NOTE**: When cloning this application, there are a few pieces of information you must fill in in order to build and run properly. In a separate Swift file (i.e. Constants.swift), create 2 constant variables: appID and serverURL. These 2 constants are used so that the app can communicate with the Parse server. After configuring these constants, you can successfully run Parstagram!
